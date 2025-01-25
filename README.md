@@ -1,6 +1,6 @@
 ### Hi there 😎
 
-Hi, I'm Henrique Wandersee, I am a dev passionate about technology!
+I'm Henrique Wandersee, I am a dev passionate about technology!
 
 This is the space where I spend most of my time where, imagination and creativity become code.
 
