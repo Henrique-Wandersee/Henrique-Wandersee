@@ -1,4 +1,12 @@
-## Hi there 👋
+### Hi there 😎
+
+Hi, I'm Henrique Wandersee, I am a dev passionate about technology!
+
+This is the space where I spend most of my time where, imagination and creativity become code.
+
+- 💬 Ask me about anything [here](https://www.linkedin.com/in/henrique-wandersee-31b0181ab//)
+
+
 
 <!--
 **Henrique-Wandersee/Henrique-Wandersee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
