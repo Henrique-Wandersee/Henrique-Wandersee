@@ -55,25 +55,6 @@ Apaixonado por tecnologia, desenvolvimento de software e construção de soluç�
 
 ---
 
-# 🔥 Sequência de Contribuições
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Henrique-Wandersee&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Henrique-Wandersee&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=6"/>
-
-</div>
-
----
 
 # 📈 Atividade
 
