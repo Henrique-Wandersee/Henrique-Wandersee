@@ -66,9 +66,9 @@ SQL Server
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Henrique-Wandersee&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=HenriqueWandersee&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Wandersee&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueWandersee&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
