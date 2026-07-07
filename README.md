@@ -1,10 +1,12 @@
-# Olá, eu sou Henrique Wandersee
+# 👋 Olá, eu sou Henrique Wandersee
 
 <div align="center">
 
-### 💻 Desenvolvedor Full Stack | Apaixonado por Tecnologia e Soluções Escaláveis
+### 💻 Desenvolvedor Full Stack
 
-Transformando ideias em aplicações modernas, performáticas e intuitivas.
+Apaixonado por tecnologia, desenvolvimento de software e construção de soluções modernas.
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Python+%7C+Docker+%7C+APIs;Sempre+aprendendo+novas+tecnologias" />
 
 </div>
 
@@ -12,99 +14,125 @@ Transformando ideias em aplicações modernas, performáticas e intuitivas.
 
 ## 🚀 Sobre mim
 
-* 💼 Desenvolvedor Full Stack
-* 🌱 Sempre aprendendo novas tecnologias
-* ⚡ Foco em desenvolvimento Web, APIs e Arquitetura de Software
-* 🐳 Experiência com conteinerização utilizando Docker
-* 🌎 Inglês técnico para leitura de documentação e comunicação em projetos
+- 💻 Desenvolvedor Full Stack
+- 🌱 Aprendizado contínuo
+- ⚡ Desenvolvimento Web moderno
+- 🐳 Docker e conteinerização
+- 🔗 Integração com APIs REST
+- 📚 Inglês Técnico
+- 📍 Itajaí - Brasil
 
 ---
 
-## 🛠️ Tecnologias
-
-### Front-end
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
-</p>
-
-### Back-end
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,python" />
-</p>
-
-### Banco de Dados
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-</p>
-
-<p>
-SQL Server
-</p>
-
-### DevOps & Ferramentas
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github" />
-</p>
-
-### Outros Conhecimentos
-
-* REST APIs
-* Integração de Sistemas
-* Git Flow
-* Responsividade
-* Clean Code
-* Arquitetura de Software
-* Inglês Técnico
-
----
-
-## 📊 Estatísticas
+# 💻 Stack Tecnológica
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HenriqueWandersee&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,python,docker,mongodb,mysql,postgres,git,github" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueWandersee&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+### Também possuo experiência com
+
+- SQL Server
+- APIs REST
+- Git Flow
+- Responsividade
+- Clean Code
+- Arquitetura de Software
+
+---
+
+# 📊 Estatísticas GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Henrique-Wandersee&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Wandersee&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🔥 Sequência de Contribuições
+# 🔥 Sequência de Contribuições
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Henrique-Wandersee&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Henrique-Wandersee&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=6"/>
 
 </div>
 
 ---
 
-## 📫 Contato
+# 📈 Atividade
 
-* 💼 LinkedIn: https://linkedin.com/in/SEU_LINK
-* 📧 Email: [seuemail@email.com](mailto:seuemail@email.com)
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Henrique-Wandersee&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🛠 Tecnologias
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js"/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
+
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver"/>
+
+</p>
+
+---
+
+# 📫 Contato
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/henrique-wandersee-31b0181ab/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto:henriqueaw8@gmail.com)
+
+</div>
 
 ---
 
 <div align="center">
 
-### 🚀 *"Code. Learn. Build. Repeat."*
+![](https://komarev.com/ghpvc/?username=Henrique-Wandersee&style=for-the-badge&color=0e75b6)
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=0e75b6"/>
+### 🚀 "Code. Learn. Build. Repeat."
 
 </div>
