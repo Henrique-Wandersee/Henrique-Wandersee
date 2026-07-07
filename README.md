@@ -4,7 +4,7 @@ Olá, eu sou Henrique Wandersee
 
 ### 💻 Desenvolvedor Full Stack
 
-Apaixonado por tecnologia, desenvolvimento de software e construção de soluções modernas.
+Apaixonado por tecnologia, desenvolvimento de software.
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Python+%7C+Docker+%7C+APIs;Sempre+aprendendo+novas+tecnologias" />
 
