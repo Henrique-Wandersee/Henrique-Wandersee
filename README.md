@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Henrique Wandersee
+Olá, eu sou Henrique Wandersee
 
 <div align="center">
 
