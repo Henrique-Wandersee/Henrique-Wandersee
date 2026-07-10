@@ -27,14 +27,13 @@ Apaixonado por tecnologia, desenvolvimento de software.
 # 💻 Stack Tecnológica
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,python,docker,mongodb,mysql,postgres,git,github" />
-
 </div>
 
 ### Também possuo experiência com
 
 - SQL Server
+- Supabase
 - APIs REST
 - Git Flow
 - Responsividade
@@ -80,6 +79,8 @@ Apaixonado por tecnologia, desenvolvimento de software.
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
 
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver"/>
+
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 
 </p>
 
