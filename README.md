@@ -31,13 +31,13 @@ Apaixonado por tecnologia, desenvolvimento de software.
 
 ### Também possuo experiência com
 
-- SQL Server
-- Supabase
-- APIs REST
-- Git Flow
-- Responsividade
-- Clean Code
-- Arquitetura de Software
+SQL Server
+Supabase
+APIs REST
+Git Flow
+Responsividade
+Clean Code
+Arquitetura de Software
 
 ---
 
