@@ -6,7 +6,7 @@ Olá, eu sou Henrique Wandersee
 
 Apaixonado por tecnologia, desenvolvimento de software.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Python+%7C+Docker+%7C+APIs;Sempre+aprendendo+novas+tecnologias" />
+<img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&pause=1000&color=1AC41A&width=435&lines=%F0%9F%92%BB+Desenvolvedor+Full+Stack;Apaixonado+por+tecnologia%2C+desenvolvimento+de+software." alt="Typing SVG" /></a>" />
 
 </div>
 
