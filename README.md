@@ -2,25 +2,23 @@ Olá, eu sou Henrique Wandersee
 
 <div align="center">
 
-### 💻 Desenvolvedor Full Stack
+### Desenvolvedor Full Stack
 
 Apaixonado por tecnologia, desenvolvimento de software.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Python+%7C+Docker+%7C+APIs;Sempre+aprendendo+novas+tecnologias" />
-
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&pause=1000&color=1AC41A&center=true&width=435&lines=Full+Stack+Developer;React++-+Next.js+-++Node.js;Python+-+Docker+-+APIs;Sempre+aprendendo+novas++tecnologias" alt="Typing SVG" /></a>
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
-- 💻 Desenvolvedor Full Stack
-- 🌱 Aprendizado contínuo
-- ⚡ Desenvolvimento Web moderno
-- 🐳 Docker e conteinerização
-- 🔗 Integração com APIs REST
-- 📚 Inglês Técnico
-- 📍 Itajaí - Brasil
+- Desenvolvedor Full Stack
+- Aprendizado contínuo
+- Desenvolvimento Web moderno
+- Docker e conteinerização
+- Integração com APIs REST
+- Inglês Técnico
+- Itajaí - Brasil
 
 ---
 
