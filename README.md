@@ -1,4 +1,4 @@
-Olá, eu sou Henrique Wandersee
+Bem-vindo ao meu GitHub
 
 <div align="center">
 
@@ -6,8 +6,7 @@ Olá, eu sou Henrique Wandersee
 
 Apaixonado por tecnologia, desenvolvimento de software.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&pause=1000&color=1AC41A&center=true&width=435&lines=Full+Stack+Developer;React++-+Next.js+-++Node.js;Python+-+Docker+-+APIs;Sempre+aprendendo+novas++tecnologias" alt="Typing SVG" /></a>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&pause=1000&color=1AC41A&center=true&width=435&lines=Transformando+ideias+em+c%C3%B3digo;Aprendizado+Cont%C3%ADnuo;Transformando+desafios+em+solu%C3%A7%C3%B5es;Inova%C3%A7%C3%A3o+atrav%C3%A9s+do+c%C3%B3digo" alt="Typing SVG" /></a>
 ---
 
 ## Sobre mim
@@ -23,7 +22,7 @@ Apaixonado por tecnologia, desenvolvimento de software.
 ---
 
 
-# 💻 Stack Tecnológica
+# Stack Tecnológica
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,python,docker,mongodb,mysql,postgres,git,github" />
