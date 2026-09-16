@@ -2,9 +2,6 @@
 
 # Seja bem-vindo ao meu GitHub!
 
-### Desenvolvedor Full Stack
-
-Transformo ideias em soluções digitais, unindo código limpo, boas práticas de arquitetura e aprendizado contínuo.
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&pause=1000&color=1AC41A&center=true&width=435&lines=Transformando+ideias+em+c%C3%B3digo;Aprendizado+Cont%C3%ADnuo;Transformando+desafios+em+solu%C3%A7%C3%B5es;Inova%C3%A7%C3%A3o+atrav%C3%A9s+do+c%C3%B3digo" alt="Typing SVG" />
 
@@ -12,7 +9,7 @@ Transformo ideias em soluções digitais, unindo código limpo, boas práticas d
 
 ---
 
-## Sobre mim
+Sobre mim
 
 - Desenvolvedor Full Stack, focado em desenvolvimento web moderno
 - Otimização de performance e experiência do usuário
@@ -20,7 +17,7 @@ Transformo ideias em soluções digitais, unindo código limpo, boas práticas d
 
 ---
 
-## No momento
+No momento
 
 - Aprofundando conhecimentos em arquitetura de software e escalabilidade
 - Curiosidade, disciplina e código
@@ -28,25 +25,25 @@ Transformo ideias em soluções digitais, unindo código limpo, boas práticas d
 
 ---
 
-## Projetos
+Projetos
 
 > Veja todos os repositórios em [github.com/Henrique-Wandersee?tab=repositories](https://github.com/Henrique-Wandersee?tab=repositories)
 
 ---
 
-## Stack Tecnológica
+Stack Tecnológica
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,python,docker,mongodb,mysql,postgres,git,github" />
 </div>
 
-### Também possuo experiência com
+Também possuo experiência com
 
 `SQL Server` `Supabase` `APIs REST` `Git Flow` `Responsividade` `Clean Code` `Arquitetura de Software`
 
 ---
 
-## GitHub Stats
+GitHub Stats
 
 <div align="center">
 
@@ -56,7 +53,7 @@ Transformo ideias em soluções digitais, unindo código limpo, boas práticas d
 
 ---
 
-## Contato
+Contato
 
 <div align="center">
 
@@ -69,6 +66,6 @@ Transformo ideias em soluções digitais, unindo código limpo, boas práticas d
 
 ![](https://komarev.com/ghpvc/?username=Henrique-Wandersee&style=for-the-badge&color=0e75b6)
 
-### Melhor do que ontem, aprendendo para ser melhor amanhã.
+"Melhor do que ontem, aprendendo para ser melhor amanhã."
 
 </div>
