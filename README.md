@@ -16,9 +16,7 @@ Transformo ideias em soluções digitais, unindo código limpo, boas práticas d
 
 - Desenvolvedor Full Stack, focado em desenvolvimento web moderno
 - Otimização de performance e experiência do usuário
-- Aprendizado contínuo e busca constante por boas práticas (Clean Code)
-- Inglês técnico para leitura de documentação e comunicação
-- Itajaí - Brasil
+- Aprendizado contínuo e busca constante por boas práticas
 
 ---
 
