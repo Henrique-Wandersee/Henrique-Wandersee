@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou o Henrique
+# Seja bem-vindo ao meu GitHub!
 
 ### Desenvolvedor Full Stack
 
@@ -15,8 +15,7 @@ Transformo ideias em soluções digitais, unindo código limpo, boas práticas d
 ## Sobre mim
 
 - Desenvolvedor Full Stack, focado em desenvolvimento web moderno
-- Experiência com integração de APIs REST e arquitetura de software
-- Uso Docker e conteinerização no dia a dia
+- Otimização de performance e experiência do usuário
 - Aprendizado contínuo e busca constante por boas práticas (Clean Code)
 - Inglês técnico para leitura de documentação e comunicação
 - Itajaí - Brasil
@@ -26,17 +25,12 @@ Transformo ideias em soluções digitais, unindo código limpo, boas práticas d
 ## No momento
 
 - Aprofundando conhecimentos em arquitetura de software e escalabilidade
-- Estudando padrões de projeto (design patterns) aplicados a projetos reais
+- Curiosidade, disciplina e código
 - Aberto a oportunidades como Desenvolvedor Full Stack
 
 ---
 
-## Projetos em destaque
-
-- **[Airbnb](https://github.com/Henrique-Wandersee/Airbnb)** — Projeto de turismo desenvolvido em HTML
-- **[Projeto_CAR](https://github.com/Henrique-Wandersee/Projeto_CAR)** — Projeto desenvolvido em CSS
-- **[Viagem](https://github.com/Henrique-Wandersee/Viagem)** — Projeto desenvolvido em CSS
-- **[coffee](https://github.com/Henrique-Wandersee/coffee)** — Projeto desenvolvido em HTML
+## Projetos
 
 > Veja todos os repositórios em [github.com/Henrique-Wandersee?tab=repositories](https://github.com/Henrique-Wandersee?tab=repositories)
 
