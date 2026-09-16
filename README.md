@@ -71,6 +71,6 @@ Transformo ideias em soluções digitais, unindo código limpo, boas práticas d
 
 ![](https://komarev.com/ghpvc/?username=Henrique-Wandersee&style=for-the-badge&color=0e75b6)
 
-### "Code. Learn. Build. Repeat."
+### Melhor do que ontem, aprendendo para ser melhor amanhã.
 
 </div>
