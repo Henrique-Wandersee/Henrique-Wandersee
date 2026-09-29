@@ -11,9 +11,7 @@
 
 Sobre mim
 
-- Desenvolvedor Full Stack, focado em desenvolvimento web moderno
-- Otimização de performance e experiência do usuário
-- Aprendizado contínuo e busca constante por boas práticas
+Estudante de Engenharia de Software com foco no desenvolvimento prático constante evolução na área de tecnologia. Possuo experiência com JavaScript, React, Node.js, HTML, CSS, automações com n8n e banco de dados, aplicando em projetos reais disponíveis no meu repositório. Atualmente atuo como Suporte Técnico na Univali, onde desenvolvo habilidades como resolução de problemas, atendimento ao usuário e suporte a sistemas, fortalecendo minha base técnica e comunicação.
 
 ---
 
