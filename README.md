@@ -11,8 +11,7 @@
 
 Sobre mim
 
-Estudante de Engenharia de Software com foco no desenvolvimento prático constante evolução na área de tecnologia. Possuo experiência com JavaScript, React, Node.js, HTML, CSS, automações com n8n e banco de dados, aplicando em projetos reais disponíveis no meu repositório. Atualmente atuo como Suporte Técnico na Univali, onde desenvolvo habilidades como resolução de problemas, atendimento ao usuário e suporte a sistemas, fortalecendo minha base técnica e comunicação.
-
+Sou estudante de Engenharia de Software e concilio minha atuação como Suporte Técnico na Univali com o desenvolvimento de software em outros períodos, buscando constantemente ampliar minha experiência prática na área de tecnologia. Tenho experiência com JavaScript, React, Node.js, HTML, CSS, bancos de dados e automações com n8n. Atualmente, também desenvolvo projetos para clientes e lojistas, criando soluções a partir de ideias e necessidades reais de seus negócios. Parte desses projetos está em repositórios privados por questões comerciais. A combinação entre suporte técnico e desenvolvimento tem fortalecido minhas habilidades em resolução de problemas, análise, comunicação com usuários e criação de soluções tecnológicas.
 ---
 
 No momento
