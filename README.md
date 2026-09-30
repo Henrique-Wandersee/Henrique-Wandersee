@@ -20,10 +20,9 @@ Sou estudante de Engenharia de Software e concilio minha atuação como Suporte 
 
 No momento
 
-- Aprofundando conhecimentos em arquitetura de software e escalabilidade
-- Curiosidade, disciplina e código
-- Aberto a oportunidades como Desenvolvedor Full Stack
-
+- Evoluindo constantemente através de estudos e experiência prática
+- Explorando novas tecnologias, automações e integrações
+- Aprendizado contínuo, prática e evolução
 ---
 
 Projetos
