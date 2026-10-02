@@ -20,9 +20,9 @@ Sou estudante de Engenharia de Software e atuo como Suporte Técnico na Univali.
 
 No momento
 
-- Evoluindo constantemente através de estudos e experiência prática
-- Explorando novas tecnologias, automações e integrações
-- Aprendizado contínuo, prática e evolução
+- Café e código
+- Inovação e evolução
+- Ideias e prática
 ---
 
 Projetos
